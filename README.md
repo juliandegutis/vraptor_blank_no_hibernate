@@ -1,0 +1,1 @@
+# vraptor_blank_no_hibernateas
